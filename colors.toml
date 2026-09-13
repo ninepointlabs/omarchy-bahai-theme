@@ -1,0 +1,42 @@
+mode = "dark"
+
+# Mount Carmel after dark. The accent is the gold of the dome of the Shrine of
+# the Báb as it is lit at night; the grounds are the cypress-black of the
+# Terraces around it; the foreground is the pale Chiampo stone of the shrine.
+# The rest of the palette is lifted from the gardens: the teal-green of the
+# mosaic panels on the drum, the red of the geraniums, the crushed-tile
+# terracotta of the paths, the Mediterranean below and the bougainvillea.
+
+accent = "#D9AE5B"
+selection = "#26352F"
+muted = "#5E6F67"
+
+background = "#0F1715"
+dark_background = "#0B1210"
+darker_background = "#070C0B"
+lighter_background = "#18231F"
+
+foreground = "#ECE4D0"
+dark_foreground = "#86958C"
+light_foreground = "#D6CCB4"
+bright_foreground = "#F8F2E3"
+
+red = "#C9503F"
+yellow = "#D9AE5B"
+orange = "#D48A4E"
+green = "#76A36B"
+cyan = "#4FA89A"
+blue = "#5286BA"
+magenta = "#B97AA9"
+brown = "#8C6A45"
+
+bright_red = "#E06A57"
+bright_yellow = "#EFCB7E"
+bright_green = "#94C088"
+bright_cyan = "#6FC4B5"
+bright_blue = "#74A3D3"
+bright_magenta = "#D199C3"
+
+# Gold into mosaic teal, like the dome over its drum.
+hyprland_active_border = "rgba(d9ae5bee) rgba(4fa89aee) 45deg"
+hyprland_inactive_border = "rgba(26352faa)"
